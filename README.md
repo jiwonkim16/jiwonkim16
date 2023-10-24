@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=#61DAFB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-3178C6?style=flat&logo=#000000&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=#F7DF1E&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-3178C6?style=flat&logo=#06B6D4&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-query-3178C6?style=flat&logo=#FF4154&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=React Query&logoColor=white"/>
