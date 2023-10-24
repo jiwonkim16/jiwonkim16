@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonkim16&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonkim16&langs_count=8)](https://github.com/jiwonkim16/github-readme-stats)
