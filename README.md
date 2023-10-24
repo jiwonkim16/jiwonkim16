@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=#61DAFB&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=#61DAFB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-3178C6?style=flat&logo=#000000&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=#F7DF1E&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-3178C6?style=flat&logo=#06B6D4&logoColor=white"/>
