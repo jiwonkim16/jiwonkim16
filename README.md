@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonkim16&show_icons=true&theme=tokyonight)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiwonkim16&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![wakatime](https://wakatime.com/badge/user/3fbdb6cf-55c4-46dc-b9b0-a27cfeef9b1c.svg)](https://wakatime.com/@3fbdb6cf-55c4-46dc-b9b0-a27cfeef9b1c)
