@@ -22,7 +22,10 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 ---
 ### 🌱 I’m currently learning ...
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://hi-wonn.tistory.com/)
+
 ---
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiwonkim16&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
