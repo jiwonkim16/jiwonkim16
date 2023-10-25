@@ -27,7 +27,7 @@
 
 ---
 
-###🌱 I’m currently learning ...
+# 📚 I’m currently learning ...
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://hi-wonn.tistory.com/)
 
